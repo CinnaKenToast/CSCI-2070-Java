@@ -1,0 +1,24 @@
+//Kenneth Shipley
+//CSCI 2070-08
+//January 19, 2018
+//This program is a variation of the traditional "Hello World". 
+//It displays a brief descriptions of me.
+
+package pkg2070kennethshipleyassignment01;
+
+/**
+ *
+ * @author rockm
+ */
+public class Main {
+
+    public static void main(String[] args) {
+        
+        System.out.println("Kenneth Shipley");
+        System.out.println("Major: Engineering Physics and Computer Science");
+        System.out.println("Minor: Mathematics");
+        System.out.println("A00596587");
+        System.out.println("Favorite Beverage: Beverly by Coca Cola (Obviously)");
+    }
+    
+}
